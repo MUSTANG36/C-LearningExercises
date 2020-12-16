@@ -1,0 +1,16 @@
+C:\CSharpPractice\cSharpLearningExercises\bin\Debug\net5.0\cSharpLearningExercises.exe
+C:\CSharpPractice\cSharpLearningExercises\bin\Debug\net5.0\cSharpLearningExercises.deps.json
+C:\CSharpPractice\cSharpLearningExercises\bin\Debug\net5.0\cSharpLearningExercises.runtimeconfig.json
+C:\CSharpPractice\cSharpLearningExercises\bin\Debug\net5.0\cSharpLearningExercises.runtimeconfig.dev.json
+C:\CSharpPractice\cSharpLearningExercises\bin\Debug\net5.0\cSharpLearningExercises.dll
+C:\CSharpPractice\cSharpLearningExercises\bin\Debug\net5.0\ref\cSharpLearningExercises.dll
+C:\CSharpPractice\cSharpLearningExercises\bin\Debug\net5.0\cSharpLearningExercises.pdb
+C:\CSharpPractice\cSharpLearningExercises\obj\Debug\net5.0\cSharpLearningExercises.csprojAssemblyReference.cache
+C:\CSharpPractice\cSharpLearningExercises\obj\Debug\net5.0\cSharpLearningExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpPractice\cSharpLearningExercises\obj\Debug\net5.0\cSharpLearningExercises.AssemblyInfoInputs.cache
+C:\CSharpPractice\cSharpLearningExercises\obj\Debug\net5.0\cSharpLearningExercises.AssemblyInfo.cs
+C:\CSharpPractice\cSharpLearningExercises\obj\Debug\net5.0\cSharpLearningExercises.csproj.CoreCompileInputs.cache
+C:\CSharpPractice\cSharpLearningExercises\obj\Debug\net5.0\cSharpLearningExercises.dll
+C:\CSharpPractice\cSharpLearningExercises\obj\Debug\net5.0\ref\cSharpLearningExercises.dll
+C:\CSharpPractice\cSharpLearningExercises\obj\Debug\net5.0\cSharpLearningExercises.pdb
+C:\CSharpPractice\cSharpLearningExercises\obj\Debug\net5.0\cSharpLearningExercises.genruntimeconfig.cache
