@@ -1,1 +1,1 @@
-# CSharpLearningExercises
+# CSharpLearningPrimesExercises
